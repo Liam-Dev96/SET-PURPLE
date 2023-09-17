@@ -58,4 +58,57 @@ appropriately.
 
 First I installed Visual Studio 2022 Community Edition [here.](https://visualstudio.microsoft.com/vs/)
 
-  ![figure 1.](/images/figure1.png)
+  <figure>
+  <img src="/images/figure%201.png" alt="fig1" style="width:100%">
+  <figcaption align = "center"><b>Figure 1.</b></figcaption>
+  </figure>  
+  
+  &nbsp;  
+  
+  after the installer has downloaded its time to select the workloads for the project.  
+  The project will be written in C# using the .NET MAUI framework so that the project  
+  is cross-platform.  
+  
+  <figure>
+  <img src="/images/figure%202.png" alt="fig2" style="width:100%">
+  <figcaption align = "centre"><b>Figure 2</b></figcaption>  
+  </figure>  
+  
+  &nbsp;  
+  
+  the group decided on the standard configuration of the git project, the project is set  
+  to private so that only approved contributors can make changes, pull and push requests etc.  
+  After the project is created to clone the repository to Visual Studio click 'code'.  
+  Then copy the repository link.  
+
+  <figure>
+  <img src="/images/figure%205.png" alt="fig5" style="width:100%">
+  <figcaption align = "centre"><b>Figure 3</b></figcaption>  
+  </figure>  
+  
+  &nbsp;  
+  
+  Open Visual Studio and click 'Clone Repository' 
+  <figure>
+  <img src="/images/figure%204.png" alt="fig4" style="width:100%">
+  <figcaption align = "centre"><b>Figure 4</b></figcaption>  
+  </figure>  
+  
+  &nbsp;  
+  
+  Paste the repository link into the text box and hit clone.  
+    <figure>
+  <img src="/images/figure%206.png" alt="fig6" style="width:100%">
+  <figcaption align = "centre"><b>Figure 5</b></figcaption>  
+  </figure>  
+  
+  &nbsp;  
+
+  Git successfully cloned ready for project start.  
+  <figure>
+  <img src="/images/figure%207.png" alt="fig7" style="width:100%">
+  <figcaption align = "centre"><b>Figure 6</b></figcaption>  
+  </figure>  
+  
+  &nbsp;  
+  

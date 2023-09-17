@@ -58,4 +58,4 @@ appropriately.
 
 First I installed Visual Studio 2022 Community Edition [here.](https://visualstudio.microsoft.com/vs/)
 
-  ![1.]()
+  ![figure 1.](/images/figure1.png)

@@ -53,9 +53,11 @@ appropriately.
 
 * Repeat the descriptive commentary from point 1
 * Give a blow-by-blow account of everything you did. Instead, you should highlight 
-  the important points.
-
-
+  the important points.   
+  
+  &nbsp;  
+  
+# Setting Up the Environment.  
 First I installed Visual Studio 2022 Community Edition [here.](https://visualstudio.microsoft.com/vs/)
 
   <figure>
@@ -106,9 +108,20 @@ First I installed Visual Studio 2022 Community Edition [here.](https://visualstu
 
   Git successfully cloned ready for project start.  
   <figure>
-  <img src="/images/figure%207.png" alt="fig7" style="width:100%">
+  <img src="/images/figure%207.1.png" alt="fig7" style="width:100%">
   <figcaption align = "centre"><b>Figure 6</b></figcaption>  
   </figure>  
   
   &nbsp;  
   
+from here i can create the files required from the requirements of the project and update the project on both local server and pushing changes to git.  
+  
+  &nbsp;  
+
+  # Reflection.  
+  The current set up and configuration for this project is needed as this project invloves creating a cross-platform app that will need to be available when internet isn't, this will need a local database to achieve this.  
+    
+  &nbsp;  
+
+on top of this due to not having used github very much before this project made it a little bit difficult to get set up as visual studio code and its build tools interfered with visual studio 2022 community edition.  
+ The cause of the problem was not found, however, uninstalling visual studio code and the build tools and only having visual studio 2022 fixed the issue and the rest of the set up went without any other issues. 

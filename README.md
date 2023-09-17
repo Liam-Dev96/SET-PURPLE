@@ -22,3 +22,8 @@ entry with a brief introduction because the reader may not be aware of the conte
 8. [Team project 3](week10_project.md)
 9. [Requirements analysis](week11_requirements.md)
 10. [Requirements implementation](week12_implementation.md)
+
+# Project details.  
+UNDAC teams are deployed by the Office for the Coordination of Humanitarian Affairs (OCHA) of the United Nations (UN) to parts of the world affected by natural or socio-political disasters to provide humanitarian assistance. This primarily takes the form of food, shelter and medical supplies. The centre of operations for an UNDAC team is the On-Site Operations Coordination Centre (OSOCC).
+
+The system you have been asked to build aims to provide all UNDAC team members with the functions they need to manage their role.

@@ -54,3 +54,8 @@ appropriately.
 * Repeat the descriptive commentary from point 1
 * Give a blow-by-blow account of everything you did. Instead, you should highlight 
   the important points.
+
+
+First I installed Visual Studio 2022 Community Edition [here.](https://visualstudio.microsoft.com/vs/)
+
+  ![1.]()

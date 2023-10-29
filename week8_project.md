@@ -19,3 +19,7 @@ the various dimensions of software engineering into your practice. It should inc
 
 Be sure to include links to the original items in the team's GitHub repository.
 
+# Issue
+
+The issue that was worked on this week was the EquipmentTypes issue again to make the program better by incorporating a repository design pattern.  
+This pattern will ensure that the database is compatible with other issues that also need to incorporate 
